@@ -30,7 +30,7 @@ O objetivo do exercício foi desenvolver uma galeria de mídias utilizando HTML 
 ## 📁 Estrutura do projeto
 
 ```text
-├── galeria.html
+├── index.html
 ├── style.css
 └── assets/
     └── images/
@@ -40,14 +40,14 @@ O objetivo do exercício foi desenvolver uma galeria de mídias utilizando HTML 
 
 ## 💻 Como visualizar
 
-Basta clonar o repositório e abrir o arquivo `galeria.html` no navegador:
+Basta clonar o repositório e abrir o arquivo `index.html` no navegador:
 
 ```bash
 git clone <url-do-repositorio>
 cd <nome-do-repositorio>
 ```
 
-Depois é só abrir o arquivo `galeria.html`.
+Depois é só abrir o arquivo `index.html`.
 
 ## 👤 Autor
 
