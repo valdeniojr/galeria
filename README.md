@@ -1,6 +1,6 @@
 # 💻 Galeria de um Programador
 
-Atividade prática de HTML e CSS solicitada pela professora **Samira Gabriely**, da disciplina de Introdução à Computação.
+Atividade prática de HTML e CSS solicitada pela professora **Samira Gabriely**, da disciplina de Engenharia e Seg. do Trabalho.
 
 ## 📋 Sobre a atividade
 
